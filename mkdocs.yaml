@@ -3,4 +3,4 @@ site_description: 'Quickstart Example Documentation'
 plugins:
   - techdocs-core
 nav:
-  - Overview: overview.md
+  - Home: index.md
